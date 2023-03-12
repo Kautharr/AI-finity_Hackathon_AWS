@@ -1,4 +1,4 @@
-# AI-finity Hackathon 2023
+# AI-finity Hackathon 2023 (AWS)
 
 Theme - AI as Productivity Promoter
 
