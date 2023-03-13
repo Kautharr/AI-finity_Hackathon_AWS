@@ -2,7 +2,7 @@
 
 Theme - AI as Productivity Promoter
 
-As the emergence of stronger Al models (such as ChatGPT),intense human labour has higher chance to be replace by AI. In an era of such trend, human beings might need to adapt to new paradigms of production with the help of Al. Try to give your proposal for such new paradigms, and build prototypes with resources provided.
+As the emergence of stronger Al models (such as ChatGPT),intense human labour has higher chance to be replaced by AI. In an era of such trend, human beings might need to adapt to new paradigms of production with the help of Al. Try to give your proposal for such new paradigms, and build prototypes with resources provided.
 
 __________
 
